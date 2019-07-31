@@ -7,6 +7,7 @@ teleport堡垒机的Dockerfile
 docker build teleport:latest .
 ```
 > dsm下运行命令：docker build -f ./Dockerfile  -t teleport .
+
 查看images:
 ```
 docker images
